@@ -1,3 +1,5 @@
+[![Build Status](https://ashleyfurniture.visualstudio.com/Demand%20Planning/_apis/build/status/aftab-ahmed.pipelines-dotnet-core?branchName=master)](https://ashleyfurniture.visualstudio.com/Demand%20Planning/_build/latest?definitionId=2142&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
